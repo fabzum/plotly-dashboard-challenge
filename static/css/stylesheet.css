@@ -1,0 +1,10 @@
+.jumbotron{
+    margin-top: 20px;
+    background-image: url(https://media.swncdn.com/via/5793-istockgetty-images-pluspattadis-walarput.jpg);
+    background-size: cover;
+    color: rgb(54, 54, 47);
+}
+
+.well{
+    background-color: coral;
+}
